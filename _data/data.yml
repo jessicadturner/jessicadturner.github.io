@@ -82,7 +82,7 @@ publications:
         conference: "Proceedings of the ACM on Human-Computer Interaction, 2023"
 
 certifications:
-      title: Postgraduate Student Supervision
+      title: Postgraduate Students Supervision
       list:
         - name: Hongming Zhang: A Model-Driven Methodology for IoT Application Development
           start: 2023
@@ -91,6 +91,15 @@ certifications:
           credentialid: Supervisor
           credentialurl: #
           credentialname: Supervisor
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
         - name: Git learning
           start: 2019
           end:
