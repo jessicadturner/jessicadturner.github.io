@@ -84,10 +84,10 @@ publications:
 certifications:
       title: Postgraduate Student Supervision
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
+        - name: Hongming Zhang
+          start: 2023
+          end:
+          organization: PhD
           credentialid: 111-222
           credentialurl: www.google.com
           credentialname: Google
