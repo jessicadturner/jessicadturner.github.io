@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: jessica.turner@waikato.ac.nz
-    website: https://profiles.waikato.ac.nz/jessica.turner # Include the full website URL, including "http://" or "https://".
+    website: <a href="https://profiles.waikato.ac.nz/jessica.turner">Staff Profile</a> # Include the full website URL, including "http://" or "https://".
     linkedin: jessica-turner-976534159
     github: jessicadturner
 
