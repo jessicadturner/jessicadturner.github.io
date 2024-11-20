@@ -86,9 +86,9 @@ certifications:
       list:
         - name: Hongming Zhang: A Model-Driven Methodology for IoT Application Development
           start: 2023
-          end: Present
+          end: 2024
           organization: PhD
-          credentialid: Supervisor
+          credentialid: 1111
           credentialurl: www.test.com
           credentialname: Supervisor
           details: |
@@ -102,9 +102,9 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
         - name: Bowen Liu
           start: 2020
-          end: Present
+          end: 2024
           organization: PhD
-          credentialid: Supervisor
+          credentialid: 1111
           credentialurl: www.test.com
           credentialname: Supervisor
           details: |
