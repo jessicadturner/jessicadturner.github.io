@@ -82,6 +82,14 @@ publications:
 certifications:
       title: Postgraduate Student Supervision
       list:
+        - name: Ben Jones
+          start: 2025
+          end: Present
+          organization: ""
+          credentialid: "MSc (R)"
+          credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-science-research/"
+          credentialname: "University of Waikato"
+          details: |
         - name: Veela Moxham-Bettridge
           start: 2023
           end: Present
