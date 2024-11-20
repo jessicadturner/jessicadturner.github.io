@@ -19,16 +19,19 @@ sidebar:
     github: jessicadturner
 
     interests:
-      title: Interests
+      title: Research Areas
       info:
-        - item: Climbing
-          link:
+        - item: Software Engineering
 
-        - item: Snowboarding
-          link:
+        - item: Formal Methods
 
-        - item: Cooking
-          link:
+        - item: Software Testing, Verification & Validation
+
+        - item: Internet of Things
+
+        - item: Human-Computer Interaction
+
+        - item: Social Robotics
 
 career-profile:
     title: Career Profile
