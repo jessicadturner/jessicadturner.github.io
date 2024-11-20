@@ -69,20 +69,17 @@ publications:
       - title: "Understanding Device Integrations within Diabetes Apps: App Features and Reviews Analysis [PRE-PRINT]"
         link: "https://dx.doi.org/10.2196/preprints.62926"
         authors: Turner J., Stawarz K.
-        conference: JMIR Preprints
-        year: 2024
+        conference: JMIR Preprints, 2024
 
       - title: "Automating test scripts for Android UI testing"
         link: "https://dx.doi.org/10.5121/csit.2024.140701"
         authors: Turner, J., Bowen, J.
         conference: "Proc 10th International Conference on Software Engineering (SEC 2024), CS & IT"
-        year: 2024
 
       - title: "Interactive System Modelling for the Internet of Things"
         link: "https://dx.doi.org/10.1145/3593233"
         authors: Turner, J., Bowen, J. 
-        conference: "Proceedings of the ACM on Human-Computer Interaction"
-        year: 2023
+        conference: "Proceedings of the ACM on Human-Computer Interaction, 2023"
 
 certifications:
       title: Student Supervision
