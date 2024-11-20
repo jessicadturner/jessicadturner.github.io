@@ -136,15 +136,15 @@ projects:
     intro: >
     assignments:
       - title: "AJAAR: Automated Journey Analysis, Reporting & Recording"
-        link: ""
+        link:
         tagline: "A research tool for exploring and analysing commuter behaviours."
 
       - title: "Safety and Usability of Artificial Pancreas Systems"
-        link: ""
+        link:
         tagline: "This research aims to bring together multidisciplinary expertise to address challenges in developing safe, reliable, and user-friendly Artificial Pancreas systems that enhance health outcomes and ease diabetes management."
 
       - title: "Exploring User Perceptions and Engagement with Social Robots"
-        link: ""
+        link:
         tagline: "Leveraging human-robot interaction, this research examines how social robots shape user perceptions, boost engagement, and create impactful experiences across diverse settings."
 
 footer: >
