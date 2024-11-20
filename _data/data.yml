@@ -85,7 +85,7 @@ certifications:
         - name: Ben Jones
           start: 2025
           end: Present
-          organization: ""
+          organization: "Enrolled"
           credentialid: "MSc (R)"
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-science-research/"
           credentialname:
@@ -134,9 +134,6 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
         link: "#hook"
