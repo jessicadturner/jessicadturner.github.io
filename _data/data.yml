@@ -85,8 +85,8 @@ certifications:
         - name: Hongming Zhang
           start: 2023
           end:
-          organization: PhD
-          credentialid: 
+          organization: A Model-Driven Methodology for IoT Application Development
+          credentialid: PhD
           credentialurl: www.google.com
           credentialname: Google
           details: |
