@@ -64,26 +64,25 @@ experiences:
         company: Au Reikura School of Computing & Mathematical Sciences, University of Waikato
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Recent Publications
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Understanding Device Integrations within Diabetes Apps: App Features and Reviews Analysis [PRE-PRINT]"
+        link: "https://dx.doi.org/10.2196/preprints.62926"
+        authors: Turner J., Stawarz K.
+        conference: JMIR Preprints
+        year: 2024
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Automating test scripts for Android UI testing"
+        link: "https://dx.doi.org/10.5121/csit.2024.140701"
+        authors: Turner, J., Bowen, J.
+        conference: "Proc 10th International Conference on Software Engineering (SEC 2024), CS & IT"
+        year: 2024
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Interactive System Modelling for the Internet of Things"
+        link: "https://dx.doi.org/10.1145/3593233"
+        authors: Turner, J., Bowen, J. 
+        conference: "Proceedings of the ACM on Human-Computer Interaction"
+        year: 2023
 
 certifications:
       title: Student Supervision
