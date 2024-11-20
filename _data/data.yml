@@ -82,13 +82,13 @@ publications:
 certifications:
       title: Postgraduate Student Supervision
       list:
-        - name: Hongming Zhang
+        - name: "Hongming Zhang: A Model-Driven Methodology for IoT Application Development"
           start: 2023
           end: Present
-          organization: A Model-Driven Methodology for IoT Application Development
-          credentialid: PhD
-          credentialurl: www.google.com
-          credentialname: Google
+          organization: "University of Waikato"
+          credentialid:
+          credentialurl: https://www.waikato.ac.nz/study/qualifications/doctor-of-philosophy
+          credentialname: PhD
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
