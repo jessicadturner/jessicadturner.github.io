@@ -24,20 +24,15 @@
         <div class="cert-org">
           {{ certifications.organization }} {% if certifications.credentialid %}
           (<a
-            href="//{{ certifications.credentialurl }}"
+            href="{{ certifications.credentialurl }}"
             target="_blank"
             rel="noreferrer nofollow noopener"
             >{{ certifications.credentialid }}</a
           >) {% endif %}
         </div>
-        {% if certifications.credentialurl %}
+        {% if certifications.credentialname %}
         <div class="cert-url">
-          <a
-            href="//{{ certifications.credentialurl }}"
-            target="_blank"
-            rel="noreferrer nofollow noopener"
-            >{{ certifications.credentialname }}</a
-          >
+            {{ certifications.credentialname }}
         </div>
         {% endif %}
       </div>
