@@ -89,7 +89,7 @@ certifications:
           end: Present
           organization: PhD
           credentialid: Supervisor
-          credentialurl: #
+          credentialurl: www.test.com
           credentialname: Supervisor
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
@@ -105,7 +105,7 @@ certifications:
           end: Present
           organization: PhD
           credentialid: Supervisor
-          credentialurl: #
+          credentialurl: www.test.com
           credentialname: Supervisor
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
