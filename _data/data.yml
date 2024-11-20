@@ -88,8 +88,8 @@ certifications:
           start: 2023
           end: 2024
           organization: PhD
-          credentialid: 1111
-          credentialurl: www.test.com
+          credentialid: 
+          credentialurl: 
           credentialname: Supervisor
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
@@ -104,8 +104,8 @@ certifications:
           start: 2020
           end: 2024
           organization: PhD
-          credentialid: 1111
-          credentialurl: www.test.com
+          credentialid: 
+          credentialurl:
           credentialname: Supervisor
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
