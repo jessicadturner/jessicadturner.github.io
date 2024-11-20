@@ -82,6 +82,22 @@ publications:
 certifications:
       title: Postgraduate Student Supervision
       list:
+      - name: Zane Hamilton
+          start: 2023
+          end: 2024
+          organization: "Automation of the Landing Error Scoring System using Inertial Measurement Units"
+          credentialid: "MSc (R)"
+          credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-science-research/"
+          credentialname: "University of Waikato"
+          details: |
+      - name: Fajer Alblooshy
+          start: 2023
+          end: 2024
+          organization: "Automated Capture/Replay Test Generation for Android using Espresso"
+          credentialid: ME
+          credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-engineering/"
+          credentialname: "University of Waikato"
+          details: |
         - name: Hongming Zhang
           start: 2023
           end: Present
