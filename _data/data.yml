@@ -88,7 +88,7 @@ certifications:
           organization: ""
           credentialid: "MSc (R)"
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-science-research/"
-          credentialname: "University of Waikato"
+          credentialname:
           details: |
         - name: Veela Moxham-Bettridge
           start: 2023
@@ -96,7 +96,7 @@ certifications:
           organization: "Investigating the Learnability of CGM Applications for Non-Type 1 Diabetic users"
           credentialid: "MSc (R)"
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-science-research/"
-          credentialname: "University of Waikato"
+          credentialname:
           details: |
         - name: Zane Hamilton
           start: 2023
@@ -104,7 +104,7 @@ certifications:
           organization: "Automation of the Landing Error Scoring System using Inertial Measurement Units"
           credentialid: "MSc (R)"
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-science-research/"
-          credentialname: "University of Waikato"
+          credentialname:
           details: |
         - name: Fajer Alblooshy
           start: 2023
@@ -112,7 +112,7 @@ certifications:
           organization: "Automated Capture/Replay Test Generation for Android using Espresso"
           credentialid: ME
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-engineering/"
-          credentialname: "University of Waikato"
+          credentialname:
           details: |
         - name: Hongming Zhang
           start: 2023
@@ -120,7 +120,7 @@ certifications:
           organization: "A Model-Driven Methodology for IoT Application Development"
           credentialid: PhD
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/doctor-of-philosophy"
-          credentialname: "University of Waikato"
+          credentialname:
           details: |
         - name: Bowen Liu
           start: 2020
@@ -128,7 +128,7 @@ certifications:
           organization: "Integrating Behavioural And Formal Specifications"
           credentialid: PhD
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/doctor-of-philosophy"
-          credentialname: "University of Waikato"
+          credentialname:
           details: |
 
 projects:
