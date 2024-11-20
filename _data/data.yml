@@ -82,7 +82,15 @@ publications:
 certifications:
       title: Postgraduate Student Supervision
       list:
-      - name: Zane Hamilton
+        - name: Veela Moxham-Bettridge
+          start: 2023
+          end: Present
+          organization: "Investigating the Learnability of CGM Applications for Non-Type 1 Diabetic users"
+          credentialid: "MSc (R)"
+          credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-science-research/"
+          credentialname: "University of Waikato"
+          details: |
+        - name: Zane Hamilton
           start: 2023
           end: 2024
           organization: "Automation of the Landing Error Scoring System using Inertial Measurement Units"
@@ -90,7 +98,7 @@ certifications:
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-science-research/"
           credentialname: "University of Waikato"
           details: |
-      - name: Fajer Alblooshy
+        - name: Fajer Alblooshy
           start: 2023
           end: 2024
           organization: "Automated Capture/Replay Test Generation for Android using Espresso"
