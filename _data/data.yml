@@ -85,10 +85,46 @@ publications:
 services:
     title: Service
     items:
-      - title: "Software Innovation NZ Membership"
+      - title: "Late Breaking Work Chairs"
+        link: "https://eics.acm.org/2025/index.html"
+        venue: "EICS 2025"
+      - title: "Social Media Co-chair"
+        link: "https://vrst.hosting.acm.org/vrst2024/"
+        venue: "VRST 2024"
+      - title: "Tech in Diabetes Care: Opportunities & Challenges - Workshop co-organiser"
+        link: "https://www.eventbrite.co.uk/e/tech-in-diabetes-care-opportunities-and-challenges-tickets-918642854507"
+        venue: "Cardiff University"
+      - title: "The 2nd SI^NZ Workshop of Software Engineering Lead Organiser"
+        link: "https://si-nz-workshop-2024.github.io/SI-NZ-workshop-2024/"
+        venue: "Software Innovation NZ"
+      - title: "Business Beyond Usual Panelist"
+        link: "https://www.priorityone.co.nz/daybreak/"
+        venue: "DayBreak 2024"
+      - title: "Student Volunteer Chair"
+        link: "https://www.ozchi.org/2023/"
+        venue: "OzCHI 2023"
+      - title: "PC4G Lead Tauranga"
+        link:  "https://pc4g.org.nz/"
+        venue: "Programming Contest for Girls"
+      - title: "ENGClusion Team Member, 2023 - Present"
+        link: "https://engclusion.nz/"
+        venue: ENGClusion
+      - title: "YIA Pre-Judging Panel, 2023 - Present"
+        link: "https://www.yia.co.nz/"
+        venue: "Young Innovator Awards"
+      - title: "ACM Membership, 2023 - Present"
+        link: "https://www.acm.org/membership"
+        venue: "Association for Computing Machinery"
+      - title: "Women in Tech Lead, 2022 - Present"
+        link: 
+        venue: "Women in Tech Tauranga"
+      - title: "CSNeT Lead, 2021 - Present"
+        link: "https://wucomputing-tga.github.io/"
+        venue: "Computer Science NeTwork"
+      - title: "Software Innovation NZ Membership, 2020 - Present"
         link: "https://softwareinnovation.nz/"
-        venue:
-
+        venue: "Software Innovation NZ"
+      
 
 certifications:
       title: Postgraduate Student Supervision
