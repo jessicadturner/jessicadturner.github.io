@@ -39,9 +39,9 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      Jessica is a Lecturer and Programme Lead for Au Reikura - School of Computing & Mathematical Sciences based at the University of Waikato's Tauranga campus. Her research is in the area of engineering interactive systems and human-centred computing. Jessica's latest projects involve work with the internet of things, social robotics and medical devices.
+      I am a Lecturer, Assistant Dean and Programme Lead for Au Reikura - School of Computing & Mathematical Sciences based at the University of Waikato's Tauranga campus. My research is in the area of engineering interactive systems and human-centred computing. Recent projects involve work with the internet of things, social robotics and medical devices.
       
-      Please feel free to get in touch if your have Work-Integrated Learning opportunities for current Computer Science and Software Engineering students in the Bay of Plenty area.
+      Please feel free to get in touch if you have Work-Integrated Learning opportunities for current Computer Science and Software Engineering students in the Bay of Plenty area.
 education:
     title: Education
     info:
@@ -84,7 +84,7 @@ publications:
 
 teaching:
     title: Teaching
-    intro: "Frequently Taught courses are listed below."
+    intro: "In addition to teaching into Computing courses at the Tauranga Campus, I regularly supervise students in placements, directed studies, honours and summer research scholarships.  Frequently Taught courses are listed below."
     papers:
       - title: "COMPX201 Data Structures & Algorithms"
         link: "https://www.waikato.ac.nz/study/papers/compx201/"
@@ -97,10 +97,10 @@ teaching:
         description: 
       - title: "COMPX171 Introduction to Digital Professional Skills"
         link: "https://www.waikato.ac.nz/study/papers/compx171/"
-        description: "*This course features guest lectures from industry. If you are interested in delivering a lecture please get in touch."
+        description: "Guest lecturing opportunities available"
       - title: "COMPX271 Introduction to Software Development Methodologies"
         link: "https://www.waikato.ac.nz/study/papers/compx271/"
-        description: "*This course features guest lectures from industry. If you are interested in delivering a lecture please get in touch."
+        description: "Guest lecturing opportunities available"
         
 services:
     title: Service
