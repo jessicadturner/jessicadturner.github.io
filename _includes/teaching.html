@@ -23,9 +23,11 @@
     {% else %}
       {{ paper.title }}
     {% endif %}
+    {% if paper.description %}
     <div class="publication-authors">
       {{ paper.description }}
     </div>
+    {% endif %}
   </div><!--//item-->
   {% endfor %}
 
