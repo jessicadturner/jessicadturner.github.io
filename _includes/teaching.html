@@ -1,5 +1,5 @@
 {% assign teaching = site.data.data.teaching %}
-{% if services %}
+{% if teaching %}
 <section class="section publications-section">
 
   <h2 class="section-title">
@@ -10,7 +10,7 @@
     {{ teaching.title }}
   </h2>
 
-  {% if services.intro %}
+  {% if teaching.intro %}
   <div class="intro">
     {{ teaching.intro | markdownify }}
   </div><!--//intro-->
