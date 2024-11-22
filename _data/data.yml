@@ -82,6 +82,14 @@ publications:
         authors: Turner, J., Bowen, J. 
         conference: "Proceedings of the ACM on Human-Computer Interaction, 2023"
 
+services:
+    title: Service
+    items:
+      - title: "Understanding Device Integrations within Diabetes Apps: App Features and Reviews Analysis [PRE-PRINT]"
+        link: "https://dx.doi.org/10.2196/preprints.62926"
+        venue:
+
+
 certifications:
       title: Postgraduate Student Supervision
       list:
