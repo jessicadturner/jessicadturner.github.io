@@ -97,10 +97,10 @@ teaching:
         description: 
       - title: "COMPX171 Introduction to Digital Professional Skills"
         link: "https://www.waikato.ac.nz/study/papers/compx171/"
-        description: "Guest lecturing opportunities available"
+        description: "Guest lecturing opportunities available."
       - title: "COMPX271 Introduction to Software Development Methodologies"
         link: "https://www.waikato.ac.nz/study/papers/compx271/"
-        description: "Guest lecturing opportunities available"
+        description: "Guest lecturing opportunities available."
         
 services:
     title: Service
