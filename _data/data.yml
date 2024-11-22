@@ -82,6 +82,26 @@ publications:
         authors: Turner, J., Bowen, J. 
         conference: "Proceedings of the ACM on Human-Computer Interaction, 2023"
 
+teaching:
+    title: Teaching
+    intro: "Frequently Taught courses include:"
+    papers:
+      - title: "COMPX201 Data Structures & Algorithms"
+        link: "https://www.waikato.ac.nz/study/papers/compx201/"
+        description: "This paper covers object-oriented software development in Java focusing on abstract data types and dynamic data structures, while introducing design methodologies in software construction, software process, and software testing."
+      - title: "COMPX202 Mobile Computing & Software Architecture"
+        link: "https://www.waikato.ac.nz/study/papers/compx202/"
+        description: "This paper continues object-oriented software development in Java, but also touching on alternative approaches. It introduces software development methodologies and the use of support tools, particularly repositories and a testing framework. Project work starts with GUI development in Java and works through to the construction of mobile applications."
+      - title: "COMPX242 Software Engineering Process"
+        link: "https://www.waikato.ac.nz/study/papers/compx242/"
+        description: "This paper continues object-oriented software development in Java introducing design methodologies in software architecture, detailed design, design patterns, software configuration management, and software testing. Project work starts with GUI development and works through to the development of mobile applications."
+      - title: "COMPX171 Introduction to Digital Professional Skills"
+        link: "https://www.waikato.ac.nz/study/papers/compx171/"
+        description: "This paper centres on Digital Professional Skills essential to succeed in a Digital and ICT Career. In this paper, students will be introduced to communication, collaboration, critical thinking, and self-management skills in the Digital workplace."
+      - title: "COMPX271 Introduction to Software Development Methodologies"
+        link: "https://www.waikato.ac.nz/study/papers/compx271/"
+        description: "This paper focuses on current software development and IT Operations employed to improve software delivery, quality, and efficiency. In this paper, students will develop an understanding of state-of-the-art software development methodologies. In addition, they will gain hands-on experience on tools and techniques employed in industry."
+        
 services:
     title: Service
     items:
