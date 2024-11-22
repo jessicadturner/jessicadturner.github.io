@@ -93,6 +93,14 @@ certifications:
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-science-research/"
           credentialname:
           details: |
+        - name: Jani Chathurangani
+          start: 2024
+          end: Present
+          organization: "The Use of Microscopic Traffic Simulation Models for the Analysis of Vehicle Emissions"
+          credentialid: "ME"
+          credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-engineering/"
+          credentialname:
+          details: |
         - name: Veela Moxham-Bettridge
           start: 2023
           end: Present
