@@ -128,6 +128,9 @@ services:
 
 certifications:
       title: Postgraduate Student Supervision
+      intro: >
+      Are you interested in Postgraduate studies in Software Engineering or Computer Science at 
+      the [University of Waikato's Tauranga Campus](https://www.waikato.ac.nz/about/campus/tauranga/)? 
       list:
         - name: Ben Jones
           start: 2025
