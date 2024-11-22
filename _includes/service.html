@@ -1,6 +1,6 @@
 {% assign services = site.data.data.services %}
 {% if services %}
-<section class="section services-section">
+<section class="section publications-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
@@ -23,7 +23,7 @@
     {% else %}
       {{ service.title }}
     {% endif %}
-    <div class="service-venue">{{ service.venue }}</div>
+    <div class="publication-authors">{{ service.venue }}</div>
   </div><!--//item-->
   {% endfor %}
 
