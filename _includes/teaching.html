@@ -1,0 +1,33 @@
+{% assign teaching = site.data.data.teaching %}
+{% if services %}
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-computer fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ teaching.title }}
+  </h2>
+
+  {% if services.intro %}
+  <div class="intro">
+    {{ teaching.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for paper in teaching.papers %}
+  <div class="item">
+    {% if paper.link %}
+      <a href="{{ paper.link }}">{{ paper.title }}</a>
+    {% else %}
+      {{ paper.title }}
+    {% endif %}
+    <div class="publication-authors">
+      {{ paper.description }}
+    </div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
