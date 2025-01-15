@@ -28,7 +28,16 @@
 
       <div class="second-upper-row">
         <div class="cert-org">
-          {{ certifications.organization }} {% if certifications.credentialid %}
+          {% if certifications.organizationurl %}
+          <a 
+            href="{{ certifications.organizationurl }}"
+            target="_blank"
+            rel="noreferrer nofollow noopener"
+            >{{ certifications.organization }}</a> 
+          {% else %}
+          {{ certifications.organization }}
+          {% endif %}
+          {% if certifications.credentialid %}
           (<a
             href="{{ certifications.credentialurl }}"
             target="_blank"
