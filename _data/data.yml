@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Dr. Jessica Turner
-    tagline: Lecturer in Software Engineering
+    tagline: Senior Lecturer in Software Engineering
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -39,7 +39,7 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      I am a Lecturer, Assistant Dean and Programme Lead for Au Reikura - School of Computing & Mathematical Sciences based at the University of Waikato's Tauranga campus. My research is in the area of engineering interactive systems and human-centred computing. Recent projects involve work with the internet of things, social robotics and medical devices.
+      I am a Senior Lecturer, Assistant Dean and Programme Lead for Au Reikura - School of Computing & Mathematical Sciences based at the University of Waikato's Tauranga campus. My research is in the area of engineering interactive systems and human-centred computing. Recent projects involve work with the internet of things, social robotics and medical devices.
       
       Please feel free to get in touch if you have Work-Integrated Learning opportunities for current Computer Science and Software Engineering students in the Bay of Plenty area.
 education:
@@ -57,7 +57,7 @@ education:
 experiences:
     title: Current Roles
     info:
-      - role: Lecturer in Software Engineering
+      - role: Senior Lecturer in Software Engineering
         company: Au Reikura School of Computing & Mathematical Sciences, University of Waikato
       - role: Assistant Dean Tauranga
         company: Au Reikura School of Computing & Mathematical Sciences, University of Waikato
@@ -67,6 +67,11 @@ experiences:
 publications:
     title: Recent Publications
     papers:
+      - title: "Applying the Perceived Creepiness of Technology Scale to Social Robots [ACCEPTED]"
+        link: 
+        authors: "Turner, J., Bowen, J., König, J., Stawarz, K., Vanderschantz, N."
+        conference: "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction"
+        
       - title: "Understanding Device Integrations within Diabetes Apps: App Features and Reviews Analysis [PRE-PRINT]"
         link: "https://dx.doi.org/10.2196/preprints.62926"
         authors: Turner J., Stawarz K.
