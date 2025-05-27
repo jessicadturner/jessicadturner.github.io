@@ -67,25 +67,20 @@ experiences:
 publications:
     title: Recent Publications
     papers:
-      - title: "Applying the Perceived Creepiness of Technology Scale to Social Robots [ACCEPTED]"
+      - title: "Towards Formalisation of 3D User Interaction: Making Spatial Interaction Verifiable [ACCEPTED]"
         link: 
-        authors: "Turner, J., Bowen, J., König, J., Stawarz, K., Vanderschantz, N."
-        conference: "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction"
+        authors: "Turner, J. & Weyers, B."
+        conference: "Companion Proceedings of the 17th ACM SIGCHI Symposium on Engineering Interactive Computing Systems"
         
-      - title: "Understanding Device Integrations within Diabetes Apps: App Features and Reviews Analysis [PRE-PRINT]"
-        link: "https://dx.doi.org/10.2196/preprints.62926"
-        authors: Turner J., Stawarz K.
-        conference: JMIR Preprints, 2024
-
-      - title: "Automating test scripts for Android UI testing"
-        link: "https://dx.doi.org/10.5121/csit.2024.140701"
-        authors: Turner, J., Bowen, J.
-        conference: "Proc 10th International Conference on Software Engineering (SEC 2024), CS & IT"
-
-      - title: "Interactive System Modelling for the Internet of Things"
-        link: "https://dx.doi.org/10.1145/3593233"
-        authors: Turner, J., Bowen, J. 
-        conference: "Proceedings of the ACM on Human-Computer Interaction, 2023"
+      - title: "Understanding Device Integrations Within Diabetes Apps: Mixed Methods Analysis of App Features and User Reviews"
+        link: "https://doi.org/10.2196/62926"
+        authors: "Turner, J. & Stawarz, K."
+        conference: "JMIR Diabetes 2025;10:e62926"
+        
+      - title: "Applying the Perceived Creepiness of Technology Scale to Social Robots"
+        link: "https://dl.acm.org/doi/10.5555/3721488.3721747"
+        authors: "Turner, J., Bowen, J., König, J., Stawarz, K., & Vanderschantz, N."
+        conference: "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction"
 
 teaching:
     title: Teaching
