@@ -67,8 +67,14 @@ experiences:
 publications:
     title: Recent Publications
     papers:
-      - title: "Towards Formalisation of 3D User Interaction: Making Spatial Interaction Verifiable [ACCEPTED]"
-        link: 
+
+      - title: "Co-designing Smart Cities: a Case Study in the New Zealand Context [ACCEPTED]"
+        link:
+        authors: "Turner, J., Jones, B., Everitt, A. & König, J."
+        conference: "37th Australian Conference on Human-Computer Interaction (HCI)"
+        
+      - title: "Towards Formalisation of 3D User Interaction: Making Spatial Interaction Verifiable"
+        link: https://dx.doi.org/10.1145/3731406.3734976
         authors: "Turner, J. & Weyers, B."
         conference: "Companion Proceedings of the 17th ACM SIGCHI Symposium on Engineering Interactive Computing Systems"
         
