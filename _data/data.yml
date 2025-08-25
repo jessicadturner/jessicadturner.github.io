@@ -218,6 +218,7 @@ certifications:
           start: 2020
           end: 2025
           organization: "Integrating Behavioural And Formal Specifications"
+          organizationurl: "https://hdl.handle.net/10289/17330"
           credentialid: PhD
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/doctor-of-philosophy"
           credentialname:
