@@ -156,6 +156,14 @@ certifications:
       title: Postgraduate Student Supervision
       intro: "Are you interested in Postgraduate studies in Software Engineering or Computer Science at the [University of Waikato's Tauranga Campus](https://www.waikato.ac.nz/about/campus/tauranga/)? Please feel to reach out via email if our research interests align." 
       list:
+        - name: Zane Hamilton
+          start: 2025
+          end: Present
+          organization: "Exploring Novel Technological Approaches for Monitoring and Enhancing Health and Sports Performance"
+          credentialid: "PhD"
+          credentialurl: "https://www.waikato.ac.nz/study/qualifications/doctor-of-philosophy/"
+          credentialname:
+          details: |
         - name: Ben Jones
           start: 2025
           end: Present
@@ -208,7 +216,7 @@ certifications:
           details: |
         - name: Bowen Liu
           start: 2020
-          end: Present
+          end: 2025
           organization: "Integrating Behavioural And Formal Specifications"
           credentialid: PhD
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/doctor-of-philosophy"
