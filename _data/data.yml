@@ -111,6 +111,9 @@ teaching:
 services:
     title: Service
     items:
+      - title: "YIA Mentor, 2025 - Present"
+        link: "https://www.yia.co.nz/"
+        venue: "Young Innovator Awards"
       - title: "Late Breaking Work Co-chair"
         link: "https://eics.acm.org/2025/index.html"
         venue: "EICS 2025"
@@ -135,7 +138,7 @@ services:
       - title: "ENGClusion Team Member, 2023 - Present"
         link: "https://engclusion.nz/"
         venue: ENGClusion
-      - title: "YIA Pre-Judging Panel, 2023 - Present"
+      - title: "YIA Pre-Judging Panel, 2023 - 2024"
         link: "https://www.yia.co.nz/"
         venue: "Young Innovator Awards"
       - title: "ACM Membership, 2023 - Present"
