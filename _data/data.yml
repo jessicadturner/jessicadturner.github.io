@@ -72,9 +72,14 @@ publications:
         link:
         authors: "Turner, J., Jones, B., Everitt, A. & König, J."
         conference: "37th Australian Conference on Human-Computer Interaction (HCI)"
+
+      - title: "A Heuristics Matrix for Evaluating the Learnability of Safety Critical Medical Systems"
+        link: "https://doi.org/10.1016/j.csbj.2025.09.001"
+        authors: "Turner, J., Bowen, J. & Moxham-Bettridge, V."
+        conference: "Computational and Structural Biotechnology Journal, Special Issue: Human-Centred Design of Smart Medical Devices"
         
       - title: "Towards Formalisation of 3D User Interaction: Making Spatial Interaction Verifiable"
-        link: https://dx.doi.org/10.1145/3731406.3734976
+        link: "https://dx.doi.org/10.1145/3731406.3734976"
         authors: "Turner, J. & Weyers, B."
         conference: "Companion Proceedings of the 17th ACM SIGCHI Symposium on Engineering Interactive Computing Systems"
         
