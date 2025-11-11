@@ -175,7 +175,7 @@ certifications:
         - name: Ben Jones
           start: 2025
           end: Present
-          organization: "Enrolled"
+          organization: "Can You Trust What a Robot Says?"
           credentialid: "MSc (R)"
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-science-research/"
           credentialname:
@@ -183,14 +183,14 @@ certifications:
         - name: Matthew Adlam
           start: 2025
           end: Present
-          organization: "Enrolled"
+          organization: "Measuring the Perceived Creepiness of Social Robots"
           credentialid: "MSc (R)"
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-science-research/"
           credentialname:
           details: |
         - name: Jani Chathurangani
           start: 2024
-          end: Present
+          end: 2025
           organization: "The Use of Microscopic Traffic Simulation Models for the Analysis of Vehicle Emissions"
           credentialid: "ME"
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-engineering/"
