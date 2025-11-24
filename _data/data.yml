@@ -68,8 +68,8 @@ publications:
     title: Recent Publications
     papers:
 
-      - title: "Co-designing Smart Cities: a Case Study in the New Zealand Context [ACCEPTED]"
-        link:
+      - title: "Co-designing Smart Cities: a Case Study in the New Zealand Context"
+        link: "https://doi.org/10.1145/3764687.3764707"
         authors: "Turner, J., Jones, B., Everitt, A. & König, J."
         conference: "37th Australian Conference on Human-Computer Interaction (HCI)"
 
