@@ -39,7 +39,7 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      I am a Senior Lecturer, Assistant Dean and Programme Lead for Au Reikura - School of Computing & Mathematical Sciences based at the University of Waikato's Tauranga campus. My research is in the area of engineering interactive systems and human-centred computing. Recent projects involve work with the internet of things, social robotics and medical devices.
+      I am a Senior Lecturer and Programme Lead for Au Reikura - School of Computing & Mathematical Sciences based at the University of Waikato's Tauranga campus. My research is in the area of engineering interactive systems and human-centred computing. Recent projects involve work with the internet of things, social robotics and medical devices.
       
       Please feel free to get in touch if you have Work-Integrated Learning opportunities for current Computer Science and Software Engineering students in the Bay of Plenty area.
 education:
@@ -59,7 +59,7 @@ experiences:
     info:
       - role: Senior Lecturer in Software Engineering
         company: Au Reikura School of Computing & Mathematical Sciences, University of Waikato
-      - role: Assistant Dean Tauranga
+      - role: Programme Lead Tauranga
         company: Au Reikura School of Computing & Mathematical Sciences, University of Waikato
 
 publications:
@@ -169,6 +169,7 @@ certifications:
           start: 2025
           end: 2026
           organization: "Can You Trust What a Robot Says?"
+          organizationurl: "https://hdl.handle.net/10289/18695"
           credentialid: "MSc (R)"
           credentialurl: "https://www.waikato.ac.nz/study/qualifications/master-of-science-research/"
           credentialname:
